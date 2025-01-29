@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**leelor121/leelor121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hello I'm Lee, an <a href="https://www.linkedin.com/in/leelor/">Engineer, IT Specialist</a>☺</h1>
 
-Here are some ideas to get you started:
+<h2>🖥️ Information Technology Projects🖥</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b> osTicket: Creating a Ticketing System for Help Desk </b>
+  - [osTicket: Prerequisites and Installation](https://github.com/leelor121/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/leelor121/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/leelor121/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Setting Up Active Directory using Azure VMs](https://github.com/leelor121/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/leelor121/azure-network-protocols)
+- <b>Virtual Private Network</b>
+  - [VPN Setup in Virtual Machine ](https://github.com/leelor121/Setting-UP-A-VPN)
+
+<h2>📩Contact Me</h2>
+
+[<img align="left" alt="Lee | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/leelor/
