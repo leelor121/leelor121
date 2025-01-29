@@ -14,8 +14,8 @@
   - [VPN Setup in Virtual Machine ](https://github.com/leelor121/Setting-UP-A-VPN)
  
 <h2>📊 Data Analysis 🖥</h2>
-- <b> osTicket: Data Analysis </b>
-  - [osTicket: Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
+- <b>Data Analysis </b>
+  - [Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
 
 <h2>📩Contact Me</h2>
 
