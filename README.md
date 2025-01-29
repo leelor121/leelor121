@@ -12,6 +12,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols with Wireshark](https://github.com/leelor121/azure-network-protocols)
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/leelor121/Setting-UP-A-VPN)
+ 
+<h2>📊 Data Analysis 🖥</h2>
+- <b> osTicket: Data Analysis </b>
+  - [osTicket: Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
 
 <h2>📩Contact Me</h2>
 
