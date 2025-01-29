@@ -13,7 +13,7 @@
 - <b>Virtual Private Network</b>
   - [VPN Setup in Virtual Machine ](https://github.com/leelor121/Setting-UP-A-VPN)
  
- <h2>📊 Data Analysis 🖥</h2>
+ <h2>📊 Data Analysis 📊 </h2>
  
 - <b>Data Analysis </b>
   - [Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
