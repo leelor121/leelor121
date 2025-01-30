@@ -16,7 +16,9 @@
  <h2>📊 Data Analysis 📊 </h2>
  
 - <b>Data Analysis </b>
-  - [Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
+  - [Amazon Sales Data](https://github.com/leelor121/Amazon-Sales-Data-Analysis)
+  - [Historical Sales Data](https://github.com/leelor121/Sales-History-Data-Analysis)'
+  - [Movies Data](https://github.com/leelor121/TMDB-Movie-Data-Analysis)
 
 <h2>📩Contact Me</h2>
 
